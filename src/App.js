@@ -11,6 +11,7 @@ class App extends Component {
       colorBlue: 'blue',
       playerRed: this.symbols[2],
       playerBlue: this.symbols[1],
+      winner: null,
     };
   }
 
